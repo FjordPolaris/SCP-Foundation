@@ -1,12 +1,3 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -23,12 +14,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
+**Desktop (Optional):**
  - OS: [e.g. MacOS, Windows]
-- Resolution: [e.g. UI related]
+- Resolution: (UI related)
 
-**Smartphone (please complete the following information):**
+**Smartphone (Optional):**
  - Device: [e.g. iPhone6]
 
-**Additional context**
-Add any other context about the problem here.
+**Additional informaiton**
+Add any other information about the problem here.
